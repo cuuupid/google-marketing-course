@@ -2,4 +2,4 @@
 
 Notes from Google's Digital Garage certification course online.
 
-[Introduction](/Introduction)
+[Introduction](./Introduction)
