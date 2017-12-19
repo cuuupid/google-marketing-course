@@ -4,7 +4,7 @@ mds = []
 
 for f in os.listdir('.'):
     if f.split('.')[-1] == 'md' and f != 'README.md':
-        mds.append(f)
+        mds.append(f.split('.')[0])
 
 template='''# Google Marketing Course: Digital Garage
 
